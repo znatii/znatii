@@ -32,7 +32,7 @@ I also enjoy creating tools to **automate tasks** and simplify my daily workflow
 
 # Featured Repositories 🌟
 
-Here are some of my most noteworthy projects:
+These are some of my favorite projects:
 
 1. ### [**DrawGraph**](https://github.com/znatii/DrawGraphs):
    
