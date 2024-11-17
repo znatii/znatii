@@ -40,7 +40,7 @@ These are some of my favorite projects:
    
 2. ### [**ToolSave**](https://github.com/dreysanox/ToolSave):
 
-   Tool to store commands or scripts in a simple way to use them in the future and not forget them. Useful for CTFs where you normally need to have knowledge of many tools.
+   collaborative tool to store commands or scripts in a simple way to use them in the future and not forget them. Useful for CTFs where you normally need to have knowledge of many tools.
 
 ---
 
