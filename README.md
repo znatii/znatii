@@ -7,8 +7,8 @@ I like to learn about **ethical hacking**, **pentesting**, **cryptography**... a
 I also enjoy creating tools to **automate tasks** and simplify my daily workflow, especially on **UNIX-based operating systems**. 
 
 ---
-
-# This repository is where I’ll share:
+# What will you find here? 💻🔥
+ This repository is where I’ll share:
 
 - My most interesting projects.
 - **Writeups** for **CTF challenges** and unique **machines** I’ve solved.
@@ -59,5 +59,3 @@ I'm always open to learning and collaborating on new projects! 🚀
 ## Thank You for Visiting My Profile! 🌐
 
 I hope you find the resources and projects shared here useful. If you’re interested in cybersecurity topics, feel free to explore my repositories and leave your feedback or suggestions.
-
-See you at the next challenge! 💻🔥
