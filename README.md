@@ -4,7 +4,11 @@ Hi there! I'm a third-year student of **Cybersecurity Engineering** at **Rey Jua
 
 
 I like to learn about **ethical hacking**, **pentesting**, **cryptography**... apart from that I like to participate in **CTFs** and I am an active user on platforms like **hack the box**, **tryhackme** or **portswigger**.
-I also enjoy creating tools to **automate tasks** and simplify my daily workflow, especially on **UNIX-based operating systems**. This repository is where I’ll share:
+I also enjoy creating tools to **automate tasks** and simplify my daily workflow, especially on **UNIX-based operating systems**. 
+
+---
+
+# This repository is where I’ll share:
 
 - My most interesting projects.
 - **Writeups** for **CTF challenges** and unique **machines** I’ve solved.
