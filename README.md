@@ -49,7 +49,7 @@ These are some of my favorite projects:
 Feel free to reach out or connect if you have any questions or collaboration ideas:
 
 - **Email**: [santiagotob0102@gmail.com](mailto:santiagotob0102@gmail.com)
-- **LinkedIn**: [Santiago Tovar](https://www.linkedin.com/in/santiago-tovar-velasco/)
+- <a href="https://www.linkedin.com/in/santiago-tovar-velasco/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
 I'm always open to learning and collaborating on new projects! 🚀
