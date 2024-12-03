@@ -48,8 +48,7 @@ These are some of my favorite projects:
 
 Feel free to reach out or connect if you have any questions or collaboration ideas:
 
-- **Email**: [santiagotob0102@gmail.com](mailto:santiagotob0102@gmail.com)
-- <a href="mailto:correo@ejemplo.com"><img src="https://img.shields.io/badge/send-email-red?style=flat-square&logo=gmail&logoColor=red"></a>
+- <a href="mailto:santiagotob0102@gmail.com"><img src="https://img.shields.io/badge/send-email-red?style=flat-square&logo=gmail&logoColor=red"></a>
 - <a href="https://www.linkedin.com/in/santiago-tovar-velasco/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
