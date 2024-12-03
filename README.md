@@ -19,7 +19,6 @@ I also enjoy creating tools to **automate tasks** and simplify my daily workflow
 # Skills and Technologies 🛠️
 
 - ### **Programming Languages**: Python, Java, Bash, C.
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=znatii&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
 - ### **Areas of Knowledge**:
   - Ethical Hacking
   - Pentesting
