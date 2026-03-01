@@ -1,6 +1,6 @@
 # Welcome to My GitHub 👋
 
-Hi there! I'm a third-year student of **Cybersecurity Engineering** at **Rey Juan Carlos University**. I'm passionate about everything related to the exciting world of **cybersecurity**.
+Hi there! I'm a fourth-year student of **Cybersecurity Engineering** at **Rey Juan Carlos University**. I'm passionate about everything related to the exciting world of **cybersecurity**.
 
 
 I like to learn about **ethical hacking**, **pentesting**, **cryptography**... apart from that I like to participate in **CTFs** and I am an active user on platforms like **hack the box**, **tryhackme** or **portswigger**.
